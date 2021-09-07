@@ -1,0 +1,10 @@
+{
+"lab_layer": ["NCSS_Layer"], 
+"lab_rosetta_Key": ["Rosetta_Parameters"], 
+"lab_site": ["NCSS_Site_Location"], 
+"lab_pedon": ["NCSS_Pedon_Calc"],
+"lab_analyte": ["NCSS_Analyte"],
+"lab_analysis_procedure": ["NCSS_Analysis_Procedure"],
+"lab_xray_and_thermal": ["Mineralogy_Xray","Mineralogy_Thermal"],
+"lab_major_and_trace_elements_and_oxides":["Trace_Elements_Tier_1","Trace_Elements_Tier_2"]
+}
